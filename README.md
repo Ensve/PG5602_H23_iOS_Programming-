@@ -6,7 +6,7 @@ Welcome to "Ratatouille," an innovative iOS app designed for discovering, saving
 ## Preview
 
 <img width="278" alt="Skjermbilde 2024-04-23 kl  17 42 39" src="https://github.com/Ensve/PG5602_H23iOS_Programming-/assets/89137468/5047ec07-fa3f-4427-ae13-f3ec760a4395"> 
-<img width="262" alt="Skjermbilde 2024-04-23 kl  17 42 46" src="https://github.com/Ensve/PG5602_H23iOS_Programming-/assets/89137468/11c4df09-e6a5-444a-b765-bc1ce540a6b8"> 
+<img width="268" alt="Skjermbilde 2024-04-23 kl  17 42 46" src="https://github.com/Ensve/PG5602_H23iOS_Programming-/assets/89137468/11c4df09-e6a5-444a-b765-bc1ce540a6b8"> 
 <img width="272" alt="Skjermbilde 2024-04-23 kl  17 42 50" src="https://github.com/Ensve/PG5602_H23iOS_Programming-/assets/89137468/2665f02d-859e-4ccd-8978-dbff29e7a131">
 
 
