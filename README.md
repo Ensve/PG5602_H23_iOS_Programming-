@@ -27,7 +27,6 @@ The app opens with a creatively animated splash screen featuring thematic elemen
 This primary view offers several functionalities:
 
 - Browse Recipes: Users can view all locally saved recipes which can be managed and organized.
-- Edit Recipes: Facilitates the creation of new recipes or editing of existing ones.
 - Archive Management: Allows users to swipe left on recipes to archive them, keeping the interface clean and organized.
 
 #### Søk (Search)
@@ -42,6 +41,6 @@ This feature-rich search functionality includes:
 
 - View and manage areas, categories, and ingredients (which are initially empty and can be populated from the API or manually).
 - Use the [flagsapi](https://flagsapi.com/) to display country flags based on codes.
-- Switch between dark, light, and automatic themes.
-- Manage archived recipes, including un-archiving or deleting them individually or in bulk.
+- Switch between dark, light themes.
+- Manage archived recipes, including un-archiving or deleting them individually.
 
